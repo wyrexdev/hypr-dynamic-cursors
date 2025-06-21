@@ -314,3 +314,4 @@ Also make sure you disable the plugin on your host session, otherwise your curso
 
 ## license
 This plugin is licensed under the MIT License. Have a look at the `LICENSE.md` file for more information.
+# hypr-dynamic-cursors
